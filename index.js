@@ -17,27 +17,6 @@ function renderLicenseBadge(license) {
     }
     return '';
   }
-  
-  
-  // Create a function that returns the license link
-  // If there is no license, return an empty string
-//   function renderLicenseLink(license) {
-//     if (license !== 'None') {
-//       return `\n* [License](#license)\n`;
-//     }
-//     return '';
-//   }
-  
-  // Create a function that returns the license section of README
-  // If there is no license, return an empty string
-//   function renderLicenseSection(license) {
-//     if (license !== 'None') {
-//       return `## License
-  
-//   This project is licensed under the ${license} license.`;
-//     }
-//     return '';
-//   }
 
 
 // TODO: Create an array of questions for user input
@@ -102,8 +81,6 @@ inquirer.prompt([
 
 ]).then(({projectName, description, installation, usage, contributions, tests, questions, userName, email, license }) => {
     const licenseBadge = renderLicenseBadge(license);
-    // const licenseLink = renderLicenseLink(license);
-    // const licenseSection = renderLicenseSection(license);
     const content = `
 # ${projectName}
 
@@ -131,18 +108,9 @@ ${licenseBadge}
 
 ## Tests\n ${tests}
 
-## Questions\n - [${userName}](${questions})\n
+## Questions\n - GitHub Username: [${userName}](${questions})\n
 - Reach out with any additional questions to my email: ${email}
     `;
 
     fs.writeFile('./README.md', content, callBack);
 });
-
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-// function init() {}
-
-// Function call to initialize app
-// init();
