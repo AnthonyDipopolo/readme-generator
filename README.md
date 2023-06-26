@@ -28,7 +28,21 @@
  N/A
 
 ## Usage
- This project should be used to input your readme information to allow the console to generate a professional read me
+ This project should be used to input your readme information to allow the console to generate a professional read me.
+
+ chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/2e073de2-7196-444c-y0e7-4386544f7405
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.06%20PM.png)
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.15%20PM.png)
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.34%20PM.png)
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.43%20PM.png)
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.51%20PM.png)
+
+![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.57%20PM.png)
 
 ## License
  MIT License
