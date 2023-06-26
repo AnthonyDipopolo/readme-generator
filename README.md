@@ -30,7 +30,7 @@
 ## Usage
  This project should be used to input your readme information to allow the console to generate a professional read me.
 
- chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/2e073de2-7196-444c-y0e7-4386544f7405
+https://drive.google.com/file/d/1NShMO0dv8-qWjjEa9fk9_5Gf6gF1vGTS/view
 
 ![application screenshot](./Assets/screenshots/Screen%20Shot%202023-06-25%20at%209.06.06%20PM.png)
 
