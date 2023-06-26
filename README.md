@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1NShMO0dv8-qWjjEa9fk9_5Gf6gF1vGTS/view
  N/A
 
 ## Questions
- - [AnthonyDipopolo](https://github.com/AnthonyDipopolo)
+ - GitHub Username: [AnthonyDipopolo](https://github.com/AnthonyDipopolo)
 
 - Reach out with any additional questions to my email: anthony.dipopolo@gmail.com
     
